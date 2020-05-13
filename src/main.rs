@@ -43,8 +43,7 @@ fn main() {
         .sample_iter(rng)
         .take(lls.len())
         .collect();
-    // Now generate a string which can be printed
-    // and has all the correct letters
+
     //[100][8] == [8][100]
     // print the string vertically rather than horizontally
 
