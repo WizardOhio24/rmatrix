@@ -3,6 +3,14 @@ name = "rmatrix"
 version = "1.0.0"
 authors = ["Richard Menzies <rdmen2000@gmail.com>"]
 edition = "2018"
+description = "A terminal application to display falling characters, like in the film 'The Matrix'"
+licence="MIT"
+license-file = "LICENSE.txt"
+homepage = "https://github.com/WizardOhio24/rmatrix"
+repository = "https://github.com/WizardOhio24/rmatrix"
+keywords = ["matrix", "terminal", "falling", "characters"]
+categories = ["games", "command-line-utilities"]
+maintenance = { status = "passively-maintained" }
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
