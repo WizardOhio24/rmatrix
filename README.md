@@ -11,7 +11,7 @@ Arguments:
 
   - \<LETTERS\> [abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ] - the letters to use in the letter chains.
 
-For example `rmatrix -c white -s 1.5 -l 5 ,.` gives a rain-like effect.
+For example `rmatrix -c white -s 1.5 -l 5 ,.` gives a rain-like effect.  If your terminal supports unicode, you can also use characters such as `❄`, and so `rmatrix -c white -s 0.7 -l 1 ❄` to create a much more snow like effect.
 
 Press 'q' to exit.
 
