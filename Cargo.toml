@@ -1,7 +1,7 @@
 [package]
 name = "rmatrix"
 version = "1.0.0"
-authors = ["Richard Menzies <rdmen2000@gmail.com>"]
+authors = ["Richard Menzies <rdmenzies2000@gmail.com>"]
 edition = "2018"
 description = "A terminal application to display falling characters, like in the film 'The Matrix'"
 licence="MIT"
