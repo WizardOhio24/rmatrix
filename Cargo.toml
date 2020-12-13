@@ -1,5 +1,5 @@
 [package]
-name = "rmatrix"
+name = "rsmatrix"
 version = "1.0.0"
 authors = ["Richard Menzies <rdmenzies2000@gmail.com>"]
 edition = "2018"

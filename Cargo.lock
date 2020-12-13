@@ -142,7 +142,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rmatrix"
+name = "rsmatrix"
 version = "1.0.0"
 dependencies = [
  "clap",
